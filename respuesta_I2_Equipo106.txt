@@ -1,0 +1,6 @@
+Agus Blanco
+Denis Bukholdin
+Irina Bruzzone
+
+A) Para actualizar mi repositorio al estado que este el repo original, debo volver a clonarlo dentro de la terminal de la carpeta ya clonada
+B) Si, puede
